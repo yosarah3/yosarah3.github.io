@@ -1,24 +1,16 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yoko Sarah Nakama",
+    "label": "DevSecOps Developer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
+    "email": "ysnakama@outlook.com",
+    "phone": "070-826-9238",
+    "url": "https://https://yosarah3.github.io/",
+    "summary": "A DevSecOps Developer focused on security automation, cloud security, and secure software signing.",
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "url": www.linkedin.com/in/yoko-sarah-nakama-7270a012a"
       }
     ]
   },
